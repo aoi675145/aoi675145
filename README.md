@@ -27,7 +27,7 @@
 
 | **ことば** | **ばしょ** | **どうぐ** | **そのた** |
 |---|---|---|---|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-FF9EC4?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FF6B9D?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFB3C6?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-FF85A2?style=flat-square&logo=gnubash&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-FF9EC4?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-FF85A2?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-FF6B9D?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FFB3C6?style=flat-square&logo=linux&logoColor=white) | ![Actions](https://img.shields.io/badge/Actions-FF85A2?style=flat-square&logo=githubactions&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-FF9EC4?style=flat-square&logo=systemd&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-FF6B9D?style=flat-square&logo=grpc&logoColor=white) | ![Late Night](https://img.shields.io/badge/Late_Night-FF9EC4?style=flat-square&logo=moon&logoColor=white) ![Silence](https://img.shields.io/badge/Silence-FF85A2?style=flat-square&logo=wavinghand&logoColor=white) ![Unfinished](https://img.shields.io/badge/Unfinished-FF6B9D?style=flat-square&logo=hearth&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-30D475?style=flat-square&logo=systemd&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-2A6D9E?style=flat-square&logo=grpc&logoColor=white) | ![Late Night](https://img.shields.io/badge/Late_Night-8B7CFF?style=flat-square&logo=moon&logoColor=white) ![Silence](https://img.shields.io/badge/Silence-6C7A89?style=flat-square&logo=wavinghand&logoColor=white) ![Unfinished](https://img.shields.io/badge/Unfinished-FF7A59?style=flat-square&logo=hearth&logoColor=white) |
 
 <br>
 
@@ -35,13 +35,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoi675145&show_icons=true&locale=ja&theme=radical&hide_border=true&bg_color=1A1024&title_color=FF9EC4&icon_color=FF6B9D&text_color=E8E3F0&ring_color=FF6B9D)
+![GitHub Stats](https://img.shields.io/github/followers/aoi675145?style=flat-square&label=followers&color=8B7CFF&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faoi675145&query=%24.public_repos&label=repositories&color=4ECDC4&style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/aoi675145/Appwrite-Deploy?style=flat-square&label=stars&color=FFB84D&logo=github)
+![Visitors](https://komarev.com/ghpvc/?username=aoi675145&style=flat-square&color=FF6B9D&label=VISITORS)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=aoi675145&theme=radical&hide_border=true&background=1A1024&stroke=FF6B9D&ring=FF9EC4&fire=FF9EC4&currLabel=FF9EC4&sideLabels=E8E3F0&dates=B9AECB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoi675145&layout=compact&locale=ja&theme=radical&hide_border=true&bg_color=1A1024&title_color=FF9EC4&text_color=E8E3F0&langs_count=8&card_width=420)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aoi675145&theme=radical&no-bg=true&no-frame=true&column=4&row=1)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=aoi675145&theme=radical&hide_border=true&background=1A1024&stroke=FF6B9D&ring=FF9EC4&fire=FFB84D&currLabel=FF9EC4&sideLabels=E8E3F0&dates=B9AECB)
 
 </div>
 
@@ -64,16 +63,6 @@
 次の予定 : 未定
 進捗     : たぶん八割
 ```
-
-<br>
-
-## 🌱 活動グラフ
-
-<div align="center">
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=aoi675145&theme=redical&bg_color=1A1024&color=FF9EC4&line=FF6B9D&point=FFB3C6&hide_border=true&area=true)
-
-</div>
 
 <br>
 
