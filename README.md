@@ -2,7 +2,7 @@
 
 <img src="https://count.getloli.com/get/@aoi675145?theme=moebooru" alt="visitors" />
 
-# こんにちは、あおいです 🌸
+# やあ、あおいです 🌸
 
 *「静かに動き続けるものが、いちばん強い。」*
 
