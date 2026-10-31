@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://count.getloli.com/get/@aoi675145?theme=moebooru" alt="visitors" />
+<img src="./avatars/avatar.png" width="150" alt="aoi" />
 
 # こんにちは、あおいです 🌸
 
