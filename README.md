@@ -14,19 +14,20 @@
 
 ## 🍵 わたしについて
 
-- 🖥️ 自宅サーバーと無料枠のあいだで、細々とサービスを動かしています
-- 🤖 ブラウザ自動化とアンチボットの研究が趣味。Turnstile と毎晩にらめっこ
-- ☁️ Cloudflare Workers / Docker / systemd あたりが好き
-- 🌙 深夜のデプロイがいちばんはかどるタイプ
-- 📝 わかったことは全部メモに残す主義（未来の自分が助かるので）
+- 🌙 起きている時間の半分は、存在しない駅の時刻表を眺めて過ごしています
+- 🕯 静かな夜は、だいたい何も起きていません。それがいいのです
+- 🧊 名前のない色を集めています。いまは十七色
+- 🐈‍⬛ 昨日の夢に出てきた猫に、まだ返事を書いていません
+- 🌾 忘れたふりをしているだけで、たぶん全部覚えています
+- 🫧 説明を求められると、だいたい黙ります
 
 <br>
 
 ## 🛠 つかっているもの
 
-| **言語** | **実行環境 / クラウド** | **ツール** | **研究分野** |
+| **ことば** | **ばしょ** | **どうぐ** | **そのた** |
 |---|---|---|---|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-FF9EC4?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FF6B9D?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFB3C6?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-FF85A2?style=flat-square&logo=gnubash&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-FF9EC4?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-FF85A2?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-FF6B9D?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FFB3C6?style=flat-square&logo=linux&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/Actions-FF85A2?style=flat-square&logo=githubactions&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-FF9EC4?style=flat-square&logo=systemd&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-FF6B9D?style=flat-square&logo=grpc&logoColor=white) | ![Anti-bot](https://img.shields.io/badge/Anti--bot-FF85A2?style=flat-square&logo=hackthebox&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-FF9EC4?style=flat-square&logo=automattic&logoColor=white) ![Reverse](https://img.shields.io/badge/JS_Reverse-FF6B9D?style=flat-square&logo=javascript&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-FF9EC4?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FF6B9D?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFB3C6?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-FF85A2?style=flat-square&logo=gnubash&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-FF9EC4?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-FF85A2?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-FF6B9D?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FFB3C6?style=flat-square&logo=linux&logoColor=white) | ![Actions](https://img.shields.io/badge/Actions-FF85A2?style=flat-square&logo=githubactions&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-FF9EC4?style=flat-square&logo=systemd&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-FF6B9D?style=flat-square&logo=grpc&logoColor=white) | ![Late Night](https://img.shields.io/badge/Late_Night-FF9EC4?style=flat-square&logo=moon&logoColor=white) ![Silence](https://img.shields.io/badge/Silence-FF85A2?style=flat-square&logo=wavinghand&logoColor=white) ![Unfinished](https://img.shields.io/badge/Unfinished-FF6B9D?style=flat-square&logo=hearth&logoColor=white) |
 
 <br>
 
@@ -50,8 +51,19 @@
 
 | | |
 |---|---|
-| ### 🛰 探針の長期運用<br><sub>無料枠のクラウド関数の上で、監視エージェントを静かに動かし続ける仕組み。落ちても勝手に戻るように作りました。</sub> | ### 🛡 Turnstile 突破のレシピ集<br><sub>patchright / pydoll / SeleniumBase UC の三エンジンを同条件で比較して、どの盾にどれが効くかを数字でまとめた記録。</sub> |
-| ### 🚀 ワンクリックデプロイ<br><sub>GitHub Actions から関数を配備して、ビルド完了・設定反映・健康チェックまで自動で確認する仕組み。</sub> | ### 🌐 出口ノードの管理<br><sub>sing-box を切り替えて、地域ごとの接続経路を一元管理。IP の状態も台帳に残しています。</sub> |
+| ### 🧊 しずかな室<br><sub>部屋の中の音を、音ではない方法で記録する試み。まだ誰にも見せていません。</sub> | ### 🌗 半透明の栞<br><sub>読み終わらない本のための栞。ページは、増え続けます。</sub> |
+| ### 🕯 たぶん、まだ動いている<br><sub>止まっているように見えるものの、内側の話です。</sub> | ### 🪞 鏡の裏の記録<br><sub>見えているものだけが、全部ではないので。</sub> |
+
+<br>
+
+## 📮 いまの気分
+
+```
+現在地   : どこでもない場所
+再生中   : 無音
+次の予定 : 未定
+進捗     : たぶん八割
+```
 
 <br>
 
